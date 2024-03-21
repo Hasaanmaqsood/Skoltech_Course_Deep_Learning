@@ -25,12 +25,22 @@ To install the necessary libraries to run the notebooks, use the provided `requi
 pip install -r requirements.txt
 
 
+.
 ├── classification
-│ ├── classification.ipynb # Jupyter notebook for classification
-│ └── classification dataset # Dataset for classification model
+    |
+│   ├── classification.ipynb     # Jupyter notebook for classification
+|   |
+│   └── classification dataset   # Dataset for classification model
+|
 ├── segmentation
-│ ├── segmentation.ipynb # Jupyter notebook for segmentation
-│ ├── segm_model.pth # Trained segmentation model weights
-│ └── segmentation dataset # Dataset for segmentation model
-├── Readme.md # The file you are currently reading
-└── requirements.txt # Required libraries
+|   |    
+│   ├── segmentation.ipynb       # Jupyter notebook for segmentation
+|   |
+│   ├── segm_model.pth           # Trained segmentation model weights
+|   |
+│   └── segmentation dataset     # Dataset for segmentation model
+|   |  
+├── Readme.md                    # The file you are currently reading
+|  
+└── requirements.txt             # Required libraries
+
