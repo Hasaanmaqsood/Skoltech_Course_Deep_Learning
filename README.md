@@ -28,19 +28,19 @@ pip install -r requirements.txt
 .
 ├── classification
     |
-│   ├── classification.ipynb     # Jupyter notebook for classification
+│   ├──  `classification.ipynb`: Jupyter notebook with the model training code.
 |   |
-│   └── classification dataset   # Dataset for classification model
+│   └──  `classification dataset`: Directory containing the dataset for classification.
 |
 ├── segmentation
 |   |    
-│   ├── segmentation.ipynb       # Jupyter notebook for segmentation
+│   ├── `segmentation.ipynb`: Jupyter notebook with the model training code.
 |   |
-│   ├── segm_model.pth           # Trained segmentation model weights
+│   ├── `segm_model.pth`: Saved model weights for the segmentation model.
 |   |
-│   └── segmentation dataset     # Dataset for segmentation model
+│   └── `segmentation dataset`: Directory containing the dataset for segmentation.
 |   |  
 ├── Readme.md                    # The file you are currently reading
 |  
-└── requirements.txt             # Required libraries
+└── To install the necessary libraries to run the notebooks, use the provided `requirements.txt` file.
 
