@@ -51,29 +51,24 @@ pip install -r requirements.txt
 
 
 
+## Our Team
+
 <table>
-<tr>
-  <th>Profile</th>
-  <th>Name</th>
-  <th>Role</th>
-  <th>Contact Information</th>
-</tr>
-<tr>
-  <td><img src="https://github.com/[GitHub_Username1].png" width="100px;" alt="Profile Image"/></td>
-  <td>Hasaan Maqsood</td>
-  <td>Project Lead</td>
-  <td><a href="mailto:Hasaan.Maqsood@skoltech.ru">Email</a></td>
-</tr>
-<tr>
-  <td><img src="https://github.com/[GitHub_Username2].png" width="100px;" alt="Profile Image"/></td>
-  <td>Inna Larina</td>
-  <td>CV Engineer</td>
-  <td><a href="mailto:inna.larina@skoltech.ru">Email</a></td>
-</tr>
-<tr>
-  <td><img src="https://github.com/[GitHub_Username3].png" width="100px;" alt="Profile Image"/></td>
-  <td>Iana Kulichenko</td>
-  <td>Data Scientist</td>
-  <td><a href="mailto:Iana.Kulichenko@skoltech.ru">Email</a></td>
-</tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/username1">
+        <img src="https://github.com/username1.png" width="100px;" alt=""/><br />
+        <sub><b>Jane Doe</b></sub>
+      </a><br />
+      <sub>Project Manager</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/username2">
+        <img src="https://github.com/username2.png" width="100px;" alt=""/><br />
+        <sub><b>John Smith</b></sub>
+      </a><br />
+      <sub>Lead Developer</sub>
+    </td>
+  </tr>
 </table>
+
