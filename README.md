@@ -22,14 +22,18 @@ The `segmentation` directory contains the Jupyter notebook for segmentation mode
 To install the necessary libraries to run the notebooks, use the provided `requirements.txt` file.
 ```bash
 ├── classification
-│ ├── classification.ipynb # Jupyter notebook with the model training code for classification.
-│ └── classification dataset # Directory containing the dataset for classification tasks.
+│ ├── classification.ipynb          # Jupyter notebook with the model training code for classification.
+│ └── classification dataset         # Directory containing the dataset for classification tasks.
+│    ├── Training                    # Training dataset for the classification model.
+│    └── Testing                     # Testing dataset for the classification model.
 ├── segmentation
-│ ├── segmentation.ipynb # Jupyter notebook with the model training code for segmentation.
-│ ├── segm_model.pth # Saved model weights for the segmentation model.
-│ └── segmentation dataset # Directory containing the dataset for segmentation tasks.
-├── Readme.md # Overview and guide for using this repository.
-└── requirements.txt # Required libraries to run the notebooks
+│ ├── segmentation.ipynb            # Jupyter notebook with the model training code for segmentation.
+│ ├── segm_model.pth                # Saved model weights for the segmentation model.
+│ └── segmentation dataset          # Directory containing the dataset for segmentation tasks.
+├── Presentation                     # Directory or file with presentation materials.
+├── Report                           # Directory or file with detailed project report.
+├── Readme.md                        # Overview and guide for using this repository.
+└── requirements.txt                 # Required libraries to run the notebooks.
 
 ```
 
