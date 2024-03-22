@@ -44,3 +44,36 @@ pip install -r requirements.txt
 |  
 └── To install the necessary libraries to run the notebooks, use the provided `requirements.txt` file.
 
+
+
+
+
+
+
+
+<table>
+<tr>
+  <th>Profile</th>
+  <th>Name</th>
+  <th>Role</th>
+  <th>Contact Information</th>
+</tr>
+<tr>
+  <td><img src="https://github.com/[GitHub_Username1].png" width="100px;" alt="Profile Image"/></td>
+  <td>Hasaan Maqsood</td>
+  <td>Project Lead</td>
+  <td><a href="mailto:Hasaan.Maqsood@skoltech.ru">Email</a></td>
+</tr>
+<tr>
+  <td><img src="https://github.com/[GitHub_Username2].png" width="100px;" alt="Profile Image"/></td>
+  <td>Inna Larina</td>
+  <td>CV Engineer</td>
+  <td><a href="mailto:inna.larina@skoltech.ru">Email</a></td>
+</tr>
+<tr>
+  <td><img src="https://github.com/[GitHub_Username3].png" width="100px;" alt="Profile Image"/></td>
+  <td>Iana Kulichenko</td>
+  <td>Data Scientist</td>
+  <td><a href="mailto:Iana.Kulichenko@skoltech.ru">Email</a></td>
+</tr>
+</table>
