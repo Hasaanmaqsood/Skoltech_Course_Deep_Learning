@@ -20,7 +20,7 @@ The `segmentation` directory contains the Jupyter notebook for segmentation mode
 ## Requirements
 
 To install the necessary libraries to run the notebooks, use the provided `requirements.txt` file.
-
+```bash
 ├── classification
 │ ├── classification.ipynb # Jupyter notebook with the model training code for classification.
 │ └── classification dataset # Directory containing the dataset for classification tasks.
@@ -31,7 +31,7 @@ To install the necessary libraries to run the notebooks, use the provided `requi
 ├── Readme.md # Overview and guide for using this repository.
 └── requirements.txt # Required libraries to run the notebooks
 
-
+```
 
 ## Detailed Description
 
@@ -46,36 +46,4 @@ To install the necessary libraries to run the notebooks, use the provided `requi
 ## Getting Started
 
 To begin working with the notebooks, ensure you have Python installed on your system, then install the necessary dependencies:
-
-```bash
-pip install -r requirements.txt
-
-
-
-
-
-
-
-
-
-## Our Team
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/username1">
-        <img src="https://github.com/username1.png" width="100px;" alt=""/><br />
-        <sub><b>Jane Doe</b></sub>
-      </a><br />
-      <sub>Project Manager</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/username2">
-        <img src="https://github.com/username2.png" width="100px;" alt=""/><br />
-        <sub><b>John Smith</b></sub>
-      </a><br />
-      <sub>Lead Developer</sub>
-    </td>
-  </tr>
-</table>
 
