@@ -1,64 +1,36 @@
-# Implementation structure 
+# Deep Learning Course Homework Repository
 
-This repository contains machine learning models and datasets for classification and segmentation tasks.
+Welcome to the repository for the Deep Learning course homework assignments. This repository is designed to document, track, and showcase the homework projects created throughout the course. Each homework assignment is aimed at enhancing your understanding of deep learning concepts through practical, hands-on problems.
 
-## Classification
+## Course Information
 
-The `classification` directory includes the Jupyter notebook used for training the classification model and the dataset used for training.
+- **Instructor:** [Instructor's Name]
+- **Course Website:** [URL to course website]
+- **Contact Information:** [Instructor's email or contact form link]
 
-- `classification.ipynb`: Jupyter notebook with the model training code.
-- `classification dataset`: Directory containing the dataset for classification.
+## Repository Structure
 
-## Segmentation
+This repository is organized by homework assignments. Each directory contains the necessary files for each homework, including problem statements, datasets, and Jupyter notebooks with solutions and analyses.
 
-The `segmentation` directory contains the Jupyter notebook for segmentation model training, the trained model, and the corresponding dataset.
+### Homework Assignments
 
-- `segmentation.ipynb`: Jupyter notebook with the model training code.
-- `segm_model.pth`: Saved model weights for the segmentation model.
-- `segmentation dataset`: Directory containing the dataset for segmentation.
+- **Homework 1**
+  - Contents: Basic introductions to deep learning frameworks and initial model training exercises.
+- **Homework 2**
+  - **Problem 1: Sentiment Analysis for E-commerce Reviews**
+    - **Objective:** Build and train a model to perform sentiment analysis on e-commerce reviews.
+    - **Files:**
+      - `sentiment_analysis.ipynb` - Jupyter notebook with model implementation, training, and evaluation.
+      - `results/` - Directory containing graphs and model performance metrics.
+  - **Problem 2: Natural Language Generation**
+    - **Objective:** Create a model that generates text based on a given seed.
+    - **Files:**
+      - `text_generation.ipynb` - Jupyter notebook detailing the model architecture, training process, and sample outputs.
+- **Homework 3**
+  - Contents: Advanced topics in deep learning, including but not limited to convolutional neural networks, recurrent neural networks, and reinforcement learning.
 
-## Requirements
+## Setup and Installation
 
-To install the necessary libraries to run the notebooks, use the provided `requirements.txt` file.
-```bash
-├── classification
-│ ├── classification.ipynb          # Jupyter notebook with the model training code for classification.
-│ └── classification dataset         # Directory containing the dataset for classification tasks.
-│    ├── Training                    # Training dataset for the classification model.
-│    └── Testing                     # Testing dataset for the classification model.
-├── segmentation
-│ ├── segmentation.ipynb            # Jupyter notebook with the model training code for segmentation.
-│ ├── segm_model.pth                # Saved model weights for the segmentation model.
-│ └── segmentation dataset          # Directory containing the dataset for segmentation tasks.
-├── Presentation                     # Directory or file with presentation materials.
-├── Report                           # Directory or file with detailed project report.
-├── Readme.md                        # Overview and guide for using this repository.
-└── requirements.txt                 # Required libraries to run the notebooks.
+To get started with the homework assignments, you will need to set up your environment as follows:
 
-```
-
-## Detailed Description
-
-- **classification/**: This directory includes the Jupyter notebook `classification.ipynb` that contains all the code for training classification models. It also houses the `classification dataset` directory, where all data necessary for classification tasks is stored.
-
-- **segmentation/**: Similar to the classification section, this part contains `segmentation.ipynb` for segmentation model training, `segm_model.pth` for the saved model weights, and a `segmentation dataset` directory for storing segmentation-related data.
-
-- **Readme.md**: Provides an overview of the project, instructions for setup, usage, and any other important information for users or contributors.
-
-- **requirements.txt**: Lists all the Python libraries required to run the project's notebooks. Install them using `pip install -r requirements.txt`.
-
-## Getting Started
-
-To begin working with the notebooks, ensure you have Python installed on your system, then install the necessary dependencies:
-
-
-
-
-
-
-# Datasets 
-## Here How you can download Segmentation Dataset
-```bash
-
-```
-
+1. Clone this repository:
