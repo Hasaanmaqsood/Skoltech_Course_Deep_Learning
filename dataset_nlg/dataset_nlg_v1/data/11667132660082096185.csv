@@ -1,0 +1,14 @@
+,mode of transport,Miles per person per year
+0,Car/van (driver),375
+1,Surface Rail,120
+2,Car/van (passenger),42
+3,London Underground,7
+4,Other private transport*,6
+5,Taxi/minicab,4
+6,Other public transport**,4
+7,Bus in London,3
+8,Walk,2
+9,Other local bus,2
+10,Bicycle,2
+11,Non-local bus,1
+12,Motorcycle,0

@@ -1,0 +1,8 @@
+,Case status,Number of cases
+0,Confirmed cases(incl.active/recovered/deaths),30017
+1,Active,3253
+2,Recovered,26263
+3,Death,501
+4,Test in progress,48143
+5,Tested negative,2795283
+6,Total tested,2873443

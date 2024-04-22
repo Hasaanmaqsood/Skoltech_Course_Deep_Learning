@@ -1,0 +1,12 @@
+,App Store,Commission rate
+0,Apple App Store (standard),30%
+1,Apple App Store (subscriptions),15%
+2,Google Play (standard),30%
+3,Google Play (subscriptions after 12 months),15%
+4,Amazon Appstore (standard),30%
+5,Amazon Apptore (subscriptions after 12 months),15%
+6,"Samsung Galaxy Store (standard, unless otherwise agreed upon)",30%
+7,Microsoft Store (games),30%
+8,Microsoft Store (sales in Business and Education stores),30%
+9,Microsoft Store (for Windows 8 devices),30%
+10,Windows Store (other),15%

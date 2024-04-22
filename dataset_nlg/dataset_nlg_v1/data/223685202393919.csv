@@ -1,0 +1,10 @@
+,Response,Share of consumers
+0,Username & Password,69%
+1,chipTAN (Card with chip inserted into card reader),17%
+2,Token (login to generate one-time code),14%
+3,pushTAN (Generate one-time code),12%
+4,mTAN (mobile and SMS code),9%
+5,Codecard (Card with one-time code),7%
+6,Call (Automated phone call from the bank with a one-time code),7%
+7,Don't know,3%
+8,Other method,3%

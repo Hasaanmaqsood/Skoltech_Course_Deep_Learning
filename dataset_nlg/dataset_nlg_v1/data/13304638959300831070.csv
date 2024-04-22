@@ -1,0 +1,8 @@
+,Disease,Minimum,Maximum
+0,Diphtheria,85%,85%
+1,Measles*,83%,94%
+2,Mumps*,75%,86%
+3,Pertussis*,92%,94%
+4,Polio*,80%,86%
+5,Rubella*,80%,85%
+6,Smallpox*,83%,85%

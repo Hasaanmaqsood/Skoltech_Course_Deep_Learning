@@ -1,0 +1,121 @@
+,Race,Rating,Viewers (in millions)
+0,Rams vs. 49ers (ESPN) (week 1),6.2,10.3
+1,Steelers vs. Redskins (ESPN) (week 1),7.7,13.0
+2,Packers vs. Jaguars (FOX) (week 1),9.2,15.8
+3,Regional action (CBS) (week 1),9.3,16.0
+4,Patriots vs. Cardinals (NBC) (week 1),13.1,23.1
+5,Panthers vs. Broncos (NBC) (week 1),14.6,25.2
+6,Giants vs. Cowboys (FOX) (week 1),15.5,27.5
+7,Eagles vs. Bears (ESPN) (week 2),7.3,12.1
+8,Regional action (CBS) (week 2),8.5,14.4
+9,"Jets vs. Bills (CBS, NFLN) (week 2)",9.5,15.4
+10,Cowboys vs. Redskins (FOX) (week 2),11.0,19.2
+11,Colts vs. Broncos (CBS) (week 2),12.2,21.4
+12,Packers vs. Vikings (NBC) (week 2),12.7,22.8
+13,Falcons vs. Saints (ESPN (week 3)*,4.9,8.0
+14,Regional action (CBS) (week 3),8.0,13.1
+15,"Texans vs. Patriots (CBS, NFLN) (week 3)",10.6,17.5
+16,Redskins vs. Giants (FOX) (week 3),11.1,19.2
+17,Bears vs. Cowboys (NBC) (week 3),11.7,20.6
+18,Steelers vs. Eagles (CBS) (week 3),12.6,22.0
+19,Colts vs. Jaguars - in London (CBS) (week 4),4.8,7.7
+20,Dolphins vs. Bengals (NFLN) (week 4),4.8,7.9
+21,Seahawks vs. Jets (FOX) (week 4),6.7,11.2
+22,Giants vs. Vikings (ESPN) (week 4),8.0,13.2
+23,Regional action (CBS) (week 4),9.4,16.4
+24,Chiefs vs. Steelers (NBC) (week 4),10.3,18.1
+25,Cowboys vs. 49ers (FOX) (week 4),13.1,22.7
+26,Buccaneers vs. Panthers (ESPN) (week 5),5.6,9.1
+27,"Cardinals vs. 49ers (CBS, NFLN) (week 5)",7.4,12.1
+28,Regional action (CBS) (week 5),9.0,15.2
+29,Giants vs. Packers (NBC) (week 5)*,9.3,16.6
+30,Falcons vs. Broncos (FOX) (week 5),9.4,16.5
+31,Bengals vs. Cowboys (CBS) (week 5),12.1,21.3
+32,Jets vs. Cardinals (ESPN) (week 6),5.2,8.4
+33,Eagles vs. Redskins (FOX) (week 6),7.7,13.2
+34,Colts vs. Texans (NBC) (week 6),8.1,13.6
+35,"Broncos vs. Chargers (CBS, NFLN) (week 6)",8.7,14.5
+36,Regional action (CBS) (week 6),10.2,17.2
+37,Cowboys vs. Packers (FOX) (week 6),15.8,28.0
+38,Giants vs. Rams - in London (NFLN) (week 7),2.4,3.7
+39,Texans vs. Broncos (ESPN) (week 7),6.7,11.2
+40,Regional action (CBS) (week 7),7.0,11.3
+41,"Packers vs. Bears (CBS, NFLN) (week 7)",8.6,14.2
+42,Vikings vs. Eagles (FOX) (week 7),10.1,16.9
+43,Seahawks vs. Cardinals (NBC) (week 7),10.2,17.7
+44,Patriots vs. Steelers (CBS) (week 7),12.6,21.7
+45,Jaguars vs. Titans (NFLN) (week 8),3.2,5.1
+46,Redskins vs. Bengals - in London (FOX) (week 8),5.5,8.7
+47,Vikings vs. Bears (ESPN) (week 8),6.4,10.5
+48,Seahawks vs. Saints (FOX) (week 8),7.7,12.8
+49,Regional action (CBS) (week 8),9.5,16.2
+50,Eagles vs. Cowboys (NBC) (week 8),10.2,18.0
+51,Packers vs. Falcons (FOX) (week 8),13.1,22.7
+52,Falcons vs. Buccaneers (NFLN) (week 9),3.6,5.8
+53,Bills vs. Seahawks (ESPN) (week 9),6.9,11.3
+54,Regional action (CBS) (week 9),6.9,11.3
+55,Broncos vs. Raiders (NBC) (week 9),10.4,18.3
+56,Cowboys vs. Browns (FOX) (week 9),11.6,20.2
+57,Colts vs. Packers (CBS) (week 9),11.7,20.2
+58,Cowboys vs. Steelers (FOX) (week 10),16.4,28.9
+59,Patriots vs. Seahawks (NBC) (week 10),12.7,22.5
+60,Falcons vs. Eagles (FOX) (week 10),9.4,15.9
+61,Regional action (CBS) (week 10),7.8,13.2
+62,Ravens vs. Browns (NFLN) (week 10),3.5,5.7
+63,Eagles vs. Seahawks (CBS) (week 11),13.6,24.4
+64,Packers vs. Redskins (NBC) (week 11),10.8,18.7
+65,Ravens vs. Cowboys (CBS) (week 11),10.2,17.6
+66,Bears vs. Giants (FOX) (week 11),8.45,14.3
+67,"Saints vs. Panthers (NBC, NFLN) (week 11)",8.1,13.3
+68,Texans vs. Raiders (ESPN) (week 11),6.9,11.8
+69,Redskins vs. Cowboys (FOX) (week 12),14.5,35.1
+70,Vikings vs. Lions (CBS) (week 12),13.0,27.6
+71,Colts vs. Steelers (NBC) (week 12),10.1,20.9
+72,Chiefs vs. Broncos (NBC) (week 12),10.7,18.4
+73,Seahawks vs. Buccaneers (FOX) (week 12),9.8,13.1
+74,Packers vs. Eagles (ESPN) (week 12),7.8,13.1
+75,Regional action (CBS) (week 12),7.6,12.8
+76,Giants vs. Steelers (FOX) (week 13),14.6,25.4
+77,"Cowboys vs. Vikings (NBC, NFLN) (week 13)",12.8,21.8
+78,Regional action (CBS) (week 13),10.8,18.5
+79,Panthers vs. Seahawks (NBC) (week 13),10.2,17.8
+80,Lions vs. Saints (FOX) (week 13),7.3,12.2
+81,Colts vs. Jets (ESPN) (week 13),5.0,8.1
+82,Cowboys vs. Giants (NBC) (week 14),14.9,26.5
+83,Seahawks vs. Packers (FOX) (week 14),14.4,25.3
+84,Regional action (CBS) (week 14),11.2,19.1
+85,"Raiders vs. Chiefs (NBC, NFLN) (week 14)",10.5,17.4
+86,Ravens vs. Patriots (ESPN) (week 14),7.8,12.9
+87,Redskins vs. Eagles (FOX) (week 14),7.5,12.3
+88,Patriots vs. Broncos (CBS) (week 15),14.25,25.0
+89,Buccaneers vs. Cowboys (NBC) (week 15),13.6,24.1
+90,Lions vs. Giants (FOX) (week 15),10.8,18.7
+91,Regional action (CBS) (week 15),8.8,15.0
+92,"Rams vs. Seahawks (NBC, NFLN) (week 15)",8.8,14.7
+93,Panthers vs. Redskins (ESPN) (week 15),6.8,11.2
+94,Jets vs. Dolphins (NFLN) (week 15),2.5,4.4
+95,Chiefs vs. Broncos (NBC) (week 16),10.6,21.4
+96,Lions vs. Cowboys (ESPN) (week 16),10.1,18.6
+97,Packers vs. Vikings (FOX) (week 16),10.0,18.4
+98,"Giants vs. Eagles (NBC, NFLN) (week 16)",10.6,17.9
+99,Buccaneers vs. Saints (FOX) (week 16),8.1,15.4
+100,Steelers vs. Ravens (NFLN) (week 16),6.5,14.8
+101,Regional action (CBS) (week 16),7.7,14.2
+102,Bengals vs. Texans (NFLN) (week 16),3.2,6.3
+103,Packers vs. Lions (NBC) (week 17),13.0,23.8
+104,Giants vs. Redskins (FOX) (week 17),12.3,22.4
+105,Cowboys vs. Eagles (FOX) (week 17),9.65,17.0
+106,Dolphins vs. Patriots (CBS) (week 17),9.2,16.6
+107,Regional action (CBS) (week 17),6.8,12.1
+108,Giants vs. Packers (FOX) (Wildcard Round),21.3,39.3
+109,Dolphins vs. Steelers (CBS) (Wildcard Round),17.5,29.9
+110,Lions vs. Seahawks (NBC) (Wildcard Round),14.8,26.9
+111,"Raiders vs. Texans (ABC, ESPN) (Wildcard Round)",14.4,25.1
+112,Packers vs. Cowboys (FOX) (Divisional Round),26.1,48.5
+113,Steelers vs. Chiefs (NBC) (Divisional Round),19.8,37.1
+114,Texans vs. Patriots (CBS) (Divisional Round),16.0,29.8
+115,Seahawks vs. Falcons (FOX) (Divisional Round),16.2,28.7
+116,Steelers vs. Patriots (CBS) (Conference Round),24.4,48.0
+117,Packers vs. Falcons (FOX) (Conference Round),25.0,46.3
+118,AFC vs. NFC (ESPN) (Pro Bowl),4.2,7.4
+119,Patriots vs. Falcons (FOX) (Super Bowl),45.3,111.3

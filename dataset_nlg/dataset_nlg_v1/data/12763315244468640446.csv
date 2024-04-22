@@ -1,0 +1,12 @@
+,radiation ,Radiation level in millisievert
+0,Lethal dose,7000.0
+1,Radiation at the reactor in Chernobyl,6000.0
+2,Mortality rate of 50 percent,4000.0
+3,"Dose per hour at the power plant in Fukushima, Tuesday 15 March",400.0
+4,Dose that induces acute radiation sickness,250.0
+5,"Annual dose, which can cause cancer at one percent crude irradiated",100.0
+6,Dose from a whole-body computed tomography,10.0
+7,Average annual dose according to the UN,2.4
+8,Average annual dose according to BfS,2.1
+9,Dose x-ray of the spine,1.2
+10,"First officially measured value at reaktor in Fukushima, Friday 11 March",1.02

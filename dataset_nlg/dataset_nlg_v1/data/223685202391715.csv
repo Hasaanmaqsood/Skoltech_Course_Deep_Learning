@@ -1,0 +1,11 @@
+,Threat Action Variety,Breach count
+0,Social - Phishing,181
+1,Hacking - Use of Backdoor or C2,138
+2,Malware - C2,136
+3,Malware - Backdoor,118
+4,Malware - Adminware,63
+5,Malware - Capture stored data,62
+6,Malware - Export data,60
+7,Malware - Downloader,53
+8,Malware - Spyware/keylogger,51
+9,Hacking - Use of stolen credentials,28

@@ -1,0 +1,26 @@
+,first A&E diagnosis,Number of accident and emergency attendances
+0,Diagnosis not classifiable,1534272
+1,Respiratory conditions,1332034
+2,Nothing abnormal detected,1247535
+3,Dislocation/fracture/joint injury/amputation,1121421
+4,Sprain/ligament injury,1105703
+5,Contusion/abrasion,1101877
+6,Gastrointestinal conditions,1025522
+7,Laceration,1011176
+8,Urological conditions (inc cystitis),686318
+9,Ophthalmological conditions,681397
+10,Cardiac conditions,672253
+11,ENT conditions,486027
+12,Head injury,399777
+13,Muscle/tendon injury,352610
+14,Soft tissue inflammation,351743
+15,Poisoning (inc overdose),336990
+16,Local infection,331250
+17,Infectious disease,308649
+18,Psychiatric conditions,284060
+19,Cerebro-vascular conditions,263465
+20,Gynaecological conditions,216279
+21,Central nervous system conditions (exc stroke),215002
+22,Dermatological conditions,172715
+23,Foreign body,156479
+24,Burns and scalds,132778

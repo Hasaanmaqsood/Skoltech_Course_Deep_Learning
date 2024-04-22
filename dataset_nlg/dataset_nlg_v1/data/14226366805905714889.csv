@@ -1,0 +1,10 @@
+,Type Of Malware,Share of encounters
+0,Downloader,13%
+1,Remote administration tool (RAT),10%
+2,Webshell,8%
+3,Memory scraper/dumper,8%
+4,Injector,5%
+5,Dropper,4%
+6,Coin miners,3%
+7,Formjacking,2%
+8,Ransomware,0.7%
